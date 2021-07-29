@@ -13,4 +13,4 @@ The three projects are:
 
 - CO2 knock-out-pots for pollinators
 
-See relevant pdf inside each folder to explain different project and how to setup.
+See relevant pdf to explain different projects and how to setup.
